@@ -1,4 +1,4 @@
-"Boost.jar" È o seu arquivo execut·vel.
+"AutoHealingBoost1.1.jar" √© o seu arquivo execut√°vel.
 
 Lembre-se de configurar em suas hotkeys "mana potion" no "ctrl+1"
 e o painel das barras de mana e vida deve ficar abaixo do mapa( veja a imagem para te auxiliar)
@@ -6,4 +6,4 @@ e o painel das barras de mana e vida deve ficar abaixo do mapa( veja a imagem pa
 
 Ass: Julio.
 
-obs.:Este software est· limitado somente · um tamanho especifico de resoluÁ„o de tela.
+obs.:Este software est√° limitado somente √° um tamanho especifico de resolu√ß√£o de tela.
