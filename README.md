@@ -6,5 +6,6 @@ e mana do Tibia e de acordo com o mesmo magias,runas,amuletos,aneis e poçoes se
 
 
 código-fonte estará disponível somente na linguagem de programação Java (open source)
+arquivo estará disponível em extensão .jar "AutoHealingBoost1.1.jar"
 
 Ass.: Júlio.
