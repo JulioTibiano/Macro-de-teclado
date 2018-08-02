@@ -1,0 +1,9 @@
+"Boost.jar" é o seu arquivo executável.
+
+Lembre-se de configurar em suas hotkeys "mana potion" no "ctrl+1"
+e o painel das barras de mana e vida deve ficar abaixo do mapa( veja a imagem para te auxiliar)
+
+
+Ass: Julio.
+
+obs.:Este software está limitado somente á um tamanho especifico de resolução de tela.
